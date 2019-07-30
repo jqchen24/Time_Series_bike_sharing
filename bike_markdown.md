@@ -1,4 +1,4 @@
-bike
+bike sharing time series
 ================
 
 <https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials>
