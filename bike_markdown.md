@@ -130,9 +130,11 @@ Finally, part of the series that can’t be attributed to seasonal, cycle,
 or trend components is referred to as residual or error.
 
 Formally, if Y is the number of bikes rented, we can decompose the
-series in two ways: by using either an additive or multiplicative model,
+series in two ways: by using either an additive
 
-\[Y = S_t + T_t + E_t\] \[Y = S_t * T_t * E_t\]
+\[Y = S_t + T_t + E_t\] or multiplicative model,
+
+\[Y = S_t * T_t * E_t\]
 
 where St is the seasonal component, T is trend and cycle, and E is the
 remaining error.
